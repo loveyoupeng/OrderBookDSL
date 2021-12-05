@@ -2,6 +2,8 @@
 *.class
 target
 
+token.txt
+
 # Log file
 *.log
 
